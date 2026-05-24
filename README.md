@@ -103,13 +103,13 @@ For each parking space, the system counts white pixels in the ROI:
 ## 📸 Screenshots
 
 ### Parking Space Selection
-![Picker](https://github.com/user-attachments/assets/picker-placeholder)
+![Picker](https://github.com/user-attachments/assets/0b16d3ad-acd0-42d4-b0e1-172bd5097c81)
 
 ### Detection Result
-![Detection](https://github.com/user-attachments/assets/detection-placeholder)
+![Detection](https://github.com/user-attachments/assets/e48c7d54-b61d-4cb3-8e01-78f0d8444176)
 
 ### Debug Mode (Preprocessing)
-![Debug](https://github.com/user-attachments/assets/debug-placeholder)
+![Debug](https://github.com/user-attachments/assets/5a95058d-da9c-49ab-87e5-3ebf5957b8ec)
 
 ---
 
